@@ -1,0 +1,9 @@
+service_account_key_file   = "key.json"
+cloud_id                   = "b1g71e95h51okii30p25"
+folder_id                  = "b1gesovis9shv5r6k168"
+zone                       = "ru-central1-a"
+tg_key                     = "6986453585:AAF8MXtvWF7Y8xtac5IiiEh0i0kt8k4OKVo"
+function_memory            = 128
+function_execution_timeout = 10
+trigger_batch_cutoff       = 5
+storage_size_limit         = 5
